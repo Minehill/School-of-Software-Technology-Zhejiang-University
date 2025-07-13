@@ -85,4 +85,5 @@
     --dist_eval \
     --surrogate_gradient_type 选择代替梯度(ori为原代替梯度) \
     ```
-5. 其他的优化选择请在对应文件夹内找到modelsxx.py
+5. 其他的优化选择请在对应文件夹内找到modelsxx.py然后重命名为models.py，将其放到主目录下
+6. 时间紧张，略显杂乱，没有做出完全地整合，敬请见谅
