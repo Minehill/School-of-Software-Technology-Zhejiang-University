@@ -3,16 +3,16 @@
 链接: https://pan.baidu.com/s/1gQzJWCs4ztCe2wqQep49ZA?pwd=1234 提取码: 1234
 
 # 对应关系
-├─cifar100_sdt_v3_scratch: cifar100数据集上复现情况
-├─cifar10_sdt_v3_scratch：cifar10数据集上复现情况
-├─ERR_IMNET_ATAN:误差控制的ATAN代替梯度
-├─ERR_IMNET_ATAN：误差控制的矩形代替梯度
-├─IMNET_ATAN：ATAN代替梯度
-├─IMNET_sdt_v3_scratch：ImageNet子集上复现情况
-├─Learn_Layer_Norm：可学习归一化参数
-├─Learn_MaxValue：可学习边界D值（未实现）
-├─PositionEncode：位置编码
-└─trapezoid：梯形代替梯度
+├─cifar100_sdt_v3_scratch: cifar100数据集上复现情况  
+├─cifar10_sdt_v3_scratch：cifar10数据集上复现情况  
+├─ERR_IMNET_ATAN:误差控制的ATAN代替梯度  
+├─ERR_IMNET_ATAN：误差控制的矩形代替梯度  
+├─IMNET_ATAN：ATAN代替梯度  
+├─IMNET_sdt_v3_scratch：ImageNet子集上复现情况  
+├─Learn_Layer_Norm：可学习归一化参数  
+├─Learn_MaxValue：可学习边界D值（未实现）  
+├─PositionEncode：位置编码  
+└─trapezoid：梯形代替梯度  
 
 # 代码说明
 1. 复现的终端指令为：
