@@ -5,6 +5,7 @@
 链接: https://pan.baidu.com/s/18lgwA2wVDz3SfKz4q1GL2Q 提取码: 1234
 3. 子任务3：通过网盘分享的文件：浙软数字孪生任务2-子任务3  
 链接: https://pan.baidu.com/s/1dEwIi5bz3F3UnA9DTgn_TA 提取码: 1234
+4. 网盘内文件夹命名与任务对应关系请进入本仓库对应文件夹中查阅readme.md
 
 # 说明
 1. 该项目为浙江大学软件学院2025年夏令营任务2：低能耗的脉冲视觉模型研究
