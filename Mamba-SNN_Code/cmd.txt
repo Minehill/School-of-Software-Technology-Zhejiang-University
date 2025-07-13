@@ -1,0 +1,12 @@
+torchrun --standalone --nproc_per_node=1 \
+  main_finetune.py \
+  --model Efficient_Spiking_Transformer_s \
+  --data_path ./dataset/ \
+  --nb_classes 10 \
+  --batch_size 256 \
+  --blr 5e-3 \
+  --epochs 100 \
+  --warmup_epochs 20 \
+  --output_dir ./outputs/CIFAR10_SNN-Mamba \
+  --log_dir ./logs/CIFAR10-Mamba \
+  --dist_eval 
